@@ -2,7 +2,7 @@
   "name": "https://renee113.github.io/milk/",
   "short_name": VR",
   "description": "EvolxlovE",
-  "start_url": "/",
+  "start_url": "/milk/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
